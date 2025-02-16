@@ -24,9 +24,10 @@ def juntar_notas_em_txt(pasta_inicial, arquivo_saida):
     print(f"Arquivo consolidado criado: {arquivo_saida}")
 
 # Caminho da pasta onde estão suas notas em .md
-pasta_inicial = r"C:\Users\jonat\Dropbox\Obsidian\obsidian"
+pasta_inicial = r"C:\Users\jonat\Dropbox\Obsidian\obsidian\01 - Progetos\zData Analyst"
 # Arquivo onde todas as notas serão concatenadas
 arquivo_saida = "notas_consolidadas.txt"
 
 juntar_notas_em_txt(pasta_inicial, arquivo_saida)
+
 

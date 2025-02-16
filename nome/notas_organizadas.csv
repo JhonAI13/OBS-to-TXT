@@ -29,7 +29,7 @@ Alfabeto,2024-11-15 18:20:42,2024-04-28,Inglês,290,0,01 - Progetos\Inglês\Alfa
 Articles,2024-11-27 01:13:28,2024-11-27,Inglês,7,1,01 - Progetos\Inglês\Articles.md
 Fonética das palavras com ch,2024-11-17 22:38:59,2024-04-28,Inglês,62,0,01 - Progetos\Inglês\Fonética das palavras com ch.md
 "in, on e at(para lugar)",2024-11-22 18:08:06,2024-11-20,Conceito,75,0,"01 - Progetos\Inglês\in, on e at(para lugar).md"
-"in, on e at(para tempo)",2024-12-31 01:23:30,2024-11-20,Preposição,257,3,"01 - Progetos\Inglês\in, on e at(para tempo).md"
+"in, on e at(para tempo)",2024-11-22 19:21:47,2024-11-20,C**on**ceito,259,3,"01 - Progetos\Inglês\in, on e at(para tempo).md"
 Noun,2024-11-27 01:12:12,,,1,1,01 - Progetos\Inglês\Noun.md
 Object of the sentence,2024-11-26 18:43:35,2024-11-26,Inglês,84,0,01 - Progetos\Inglês\Object of the sentence.md
 Phonetics,2024-11-27 01:13:29,,,0,0,01 - Progetos\Inglês\Phonetics.md
@@ -60,13 +60,13 @@ Algoritmos de memorização,2024-08-17 19:36:45,2024-08-17,Aprendizado,10,1,01 -
 Breu,2024-04-24 19:28:59,2024-04-24,data: 2024-04-24,34,1,01 - Progetos\Outros\Breu.md
 Como eu estudo,2024-08-22 22:47:54,2024-08-21,Aprendizado,83,2,01 - Progetos\Outros\Como eu estudo.md
 Hidro-semeadura,2024-04-20 22:27:36,,,0,0,01 - Progetos\Outros\Hidro-semeadura.md
-Leitura do Coruja,2024-12-31 01:25:13,2024-04-30,Sociologia,34,1,01 - Progetos\Outros\Leitura do Coruja.md
+Leitura do Coruja,2024-04-30 00:44:42,2024-04-30,"""#Sociologia""",34,1,01 - Progetos\Outros\Leitura do Coruja.md
 Major System,2024-08-17 19:57:31,2024-08-17,Aprendizado,171,0,01 - Progetos\Outros\Major System.md
 Palácio da memória,2024-08-17 19:50:54,2024-08-17,Aprendizado,137,1,01 - Progetos\Outros\Palácio da memória.md
 RGB,2024-04-09 11:22:35,2024-04-09,Eletrônica,45,1,01 - Progetos\Outros\RGB.md
 Plano inicial,2024-05-23 01:42:19,2024-05-23,data: 2024-05-23,45,0,01 - Progetos\Outros\Bike\Plano inicial.md
 Suplementos,2024-06-30 18:45:36,2024-06-24,data: 2024-06-24,111,1,01 - Progetos\Outros\Bike\Suplementos.md
-Zonas,2024-12-31 01:25:46,2024-06-22,bike,180,2,01 - Progetos\Outros\Bike\Zonas.md
+Zonas,2024-06-24 00:57:01,2024-06-22,"""#bike""",180,2,01 - Progetos\Outros\Bike\Zonas.md
 Perguntas Abertas,2023-11-03 11:38:07,,,33,0,01 - Progetos\Outros\Brinco\Perguntas Abertas.md
 corrente,2024-04-25 01:01:47,2024-04-25,Eletrônica,26,2,01 - Progetos\Outros\Eletrônica\corrente.md
 Current sink,2024-05-25 21:00:23,2024-05-25,Eletrônica,19,2,01 - Progetos\Outros\Eletrônica\Current sink.md
@@ -102,13 +102,13 @@ Sensores,2024-05-09 01:08:36,2024-05-08,"""#Eletrônica""",114,9,01 - Progetos\O
 Solda,2024-04-18 12:06:34,2024-04-16,Eletrônica,101,5,01 - Progetos\Outros\Eletrônica\Componentes\Solda.md
 Terra,2024-04-25 00:52:00,2024-04-25,Eletrônica,53,1,01 - Progetos\Outros\Eletrônica\Componentes\Terra.md
 Transistor,2024-05-03 23:43:12,2024-04-30,Eletrônica,102,21,01 - Progetos\Outros\Eletrônica\Componentes\Transistor.md
-Comandos,2024-12-31 01:26:06,2024-05-15,Eletrônica,28,1,01 - Progetos\Outros\Eletrônica\Proteus\Comandos.md
+Comandos,2024-05-15 20:41:41,2024-05-15,"""#Eletrônica""",28,1,01 - Progetos\Outros\Eletrônica\Proteus\Comandos.md
 Pick devices,2024-05-27 21:39:21,2024-05-15,"""#Eletrônica""",40,8,01 - Progetos\Outros\Eletrônica\Proteus\Pick devices.md
 Quais consigo fazer.,2024-08-05 02:19:45,2024-08-04,data: 2024-08-04,30,6,01 - Progetos\Outros\Frella\Quais consigo fazer..md
 Quais vou fazer,2024-08-27 20:34:35,2024-08-27,data: 2024-08-27,11,1,01 - Progetos\Outros\Frella\Quais vou fazer.md
-Metas,2024-12-31 01:26:21,2024-05-07,Maker,28,1,01 - Progetos\Outros\Maker\Metas.md
-Papel alumínio,2024-12-31 01:26:24,2024-05-07,Maker,68,5,01 - Progetos\Outros\Maker\Materiais\Papel alumínio.md
-PVC,2024-12-31 01:26:27,2024-05-07,Maker,48,3,01 - Progetos\Outros\Maker\Materiais\PVC.md
+Metas,2024-05-07 21:10:47,2024-05-07,"""#Maker""",28,1,01 - Progetos\Outros\Maker\Metas.md
+Papel alumínio,2024-05-07 23:53:41,2024-05-07,"""#Maker""",68,5,01 - Progetos\Outros\Maker\Materiais\Papel alumínio.md
+PVC,2024-05-07 21:02:29,2024-05-07,"""#Maker""",48,3,01 - Progetos\Outros\Maker\Materiais\PVC.md
 Super cola,2024-05-07 21:07:49,2024-05-07,Maker,31,2,01 - Progetos\Outros\Maker\Materiais\Super cola.md
 Coisas a fazer,2024-07-12 21:53:08,,,23,0,01 - Progetos\Outros\Vida\Coisas a fazer.md
 Exercicios,2024-09-05 18:05:24,2024-08-17,data: 2024-08-17,281,3,01 - Progetos\Outros\Vida\Exercicios.md
@@ -169,7 +169,7 @@ Quanto ao papel,2023-09-28 23:18:20,,#Português #fonologia,62,0,01 - Progetos\P
 Quanto ao timbre,2023-09-28 23:14:45,,#Português #fonologia,54,0,01 - Progetos\Português\Quanto ao timbre.md
 Quanto à intensidade,2023-09-28 23:21:16,,#Português #fonologia,33,0,01 - Progetos\Português\Quanto à intensidade.md
 Quanto à zona de articulação,2023-09-28 23:11:30,,#Português #fonologia,54,0,01 - Progetos\Português\Quanto à zona de articulação.md
-Segunda leitura,2023-10-25 17:52:44,,,20,7,01 - Progetos\Português\Segunda leitura.md
+Segunda leitura,2023-10-25 17:52:44,,,20,7,"01 - Progetos\\Português\\Segunda leitura.md"
 Semivogal,2023-10-02 09:56:41,,#Português #fonologia,40,2,01 - Progetos\Português\Semivogal.md
 silabada,2023-10-01 19:47:27,,#Português #fonologia,18,1,01 - Progetos\Português\silabada.md
 Substantivo,2023-11-02 10:17:51,,#Português #Classes_de_palavras,87,4,01 - Progetos\Português\Substantivo.md
@@ -192,34 +192,34 @@ Importância do grafico,2024-12-05 18:58:41,2024-12-05,data: 2024-12-05,40,1,01 
 Outliers,2024-12-21 19:36:55,2024-12-21,Estatística,26,0,01 - Progetos\zData Analyst\Conceitos\Outliers.md
 Rotatividade,2024-11-11 21:23:20,2024-11-11,DataAnalyst,27,1,01 - Progetos\zData Analyst\Conceitos\Rotatividade.md
 Sem título,2024-11-11 21:17:58,,,0,0,01 - Progetos\zData Analyst\Conceitos\Sem título.md
-Avaliar fórmula,2024-12-31 01:27:20,2024-09-06,DataAnalyst,18,0,01 - Progetos\zData Analyst\Excel\Avaliar fórmula.md
+Avaliar fórmula,2024-09-12 00:17:13,2024-09-06,"""#DataAnalyst""",18,0,01 - Progetos\zData Analyst\Excel\Avaliar fórmula.md
 DADADIF,2024-08-25 23:37:47,2024-08-25,DataAnalyst,95,1,01 - Progetos\zData Analyst\Excel\DADADIF.md
 F4,2024-11-04 16:43:18,2024-11-04,Comando,63,1,01 - Progetos\zData Analyst\Excel\F4.md
-Função TEXTO,2024-12-31 01:28:07,2024-09-06,DataAnalyst,160,1,01 - Progetos\zData Analyst\Excel\Função TEXTO.md
-Função.excel,2024-12-31 01:28:12,2024-08-25,DataAnalyst,338,13,01 - Progetos\zData Analyst\Excel\Função.excel.md
+Função TEXTO,2024-09-12 00:16:39,2024-09-06,"""#DataAnalyst""",160,1,01 - Progetos\zData Analyst\Excel\Função TEXTO.md
+Função.excel,2024-09-12 00:13:49,2024-08-25,"""#DataAnalyst""",338,13,01 - Progetos\zData Analyst\Excel\Função.excel.md
 hlookup,2024-08-25 23:36:37,,,0,0,01 - Progetos\zData Analyst\Excel\hlookup.md
 SE,2024-09-07 21:02:06,2024-08-25,DataAnalyst,62,2,01 - Progetos\zData Analyst\Excel\SE.md
-SEERRO,2024-12-31 01:29:57,2024-09-06,DataAnalyst,59,0,01 - Progetos\zData Analyst\Excel\SEERRO.md
-Tabelas dinâmicas,2024-12-31 01:30:25,2024-09-07,DataAnalyst,13,1,01 - Progetos\zData Analyst\Excel\Tabelas dinâmicas.md
-Variáveis no excel,2024-12-31 01:30:46,2024-09-06,DataAnalyst,29,3,01 - Progetos\zData Analyst\Excel\Variáveis no excel.md
+SEERRO,2024-09-12 00:22:57,2024-09-06,"""#DataAnalyst""",59,0,01 - Progetos\zData Analyst\Excel\SEERRO.md
+Tabelas dinâmicas,2024-09-12 00:17:09,2024-09-07,"""#DataAnalyst""",13,1,01 - Progetos\zData Analyst\Excel\Tabelas dinâmicas.md
+Variáveis no excel,2024-09-12 00:17:05,2024-09-06,"""#DataAnalyst""",29,3,01 - Progetos\zData Analyst\Excel\Variáveis no excel.md
 vlookup,2024-08-25 23:36:28,,,0,0,01 - Progetos\zData Analyst\Excel\vlookup.md
 Acercamento,2024-09-12 16:09:15,2024-09-12,data: 2024-09-12,42,2,01 - Progetos\zData Analyst\Graficos\Acercamento.md
-Barras horizontais empilhadas,2024-12-31 01:27:39,2024-09-11,DataAnalyst,18,1,01 - Progetos\zData Analyst\Graficos\Barras horizontais empilhadas.md
-Barras horizontais,2024-12-31 01:27:36,2024-09-11,DataAnalyst,22,2,01 - Progetos\zData Analyst\Graficos\Barras horizontais.md
-Barras verticais empilhadas,2024-12-31 01:27:47,2024-09-10,DataAnalyst,59,3,01 - Progetos\zData Analyst\Graficos\Barras verticais empilhadas.md
-Barras verticais,2024-12-31 01:27:43,2024-09-10,DataAnalyst,25,1,01 - Progetos\zData Analyst\Graficos\Barras verticais.md
-Barras,2024-12-31 01:27:27,2024-09-10,DataAnalyst,227,11,01 - Progetos\zData Analyst\Graficos\Barras.md
+Barras horizontais empilhadas,2024-09-12 00:18:21,2024-09-11,"""#DataAnalyst""",18,1,01 - Progetos\zData Analyst\Graficos\Barras horizontais empilhadas.md
+Barras horizontais,2024-09-12 00:18:14,2024-09-11,"""#DataAnalyst""",22,2,01 - Progetos\zData Analyst\Graficos\Barras horizontais.md
+Barras verticais empilhadas,2024-09-12 00:18:03,2024-09-10,"""#DataAnalyst""",59,3,01 - Progetos\zData Analyst\Graficos\Barras verticais empilhadas.md
+Barras verticais,2024-09-12 00:17:57,2024-09-10,"""#DataAnalyst""",25,1,01 - Progetos\zData Analyst\Graficos\Barras verticais.md
+Barras,2024-09-12 00:17:49,2024-09-10,"""#DataAnalyst""",227,11,01 - Progetos\zData Analyst\Graficos\Barras.md
 Causa e efeito,2024-12-17 20:38:20,2024-12-17,Gráfico,91,1,01 - Progetos\zData Analyst\Graficos\Causa e efeito.md
 Conexão,2024-09-12 16:16:50,2024-09-12,data: 2024-09-12,59,4,01 - Progetos\zData Analyst\Graficos\Conexão.md
 Continuidade,2024-09-12 16:14:45,2024-09-12,data: 2024-09-12,54,2,01 - Progetos\zData Analyst\Graficos\Continuidade.md
 Elementos de um Bom Gráfico,2024-12-17 20:38:10,2024-12-17,Gráfico,105,1,01 - Progetos\zData Analyst\Graficos\Elementos de um Bom Gráfico.md
 Exemplo de gráficos,2024-09-21 19:30:02,2024-09-13,DataAnalyst,307,25,01 - Progetos\zData Analyst\Graficos\Exemplo de gráficos.md
 Fechamento,2024-09-12 16:13:07,2024-09-12,data: 2024-09-12,61,3,01 - Progetos\zData Analyst\Graficos\Fechamento.md
-Gráfico de cascata,2024-12-31 01:28:20,2024-09-10,DataAnalyst,33,2,01 - Progetos\zData Analyst\Graficos\Gráfico de cascata.md
+Gráfico de cascata,2024-09-12 00:18:08,2024-09-10,"""#DataAnalyst""",33,2,01 - Progetos\zData Analyst\Graficos\Gráfico de cascata.md
 Gráfico de dispersão,2024-09-07 17:49:50,2024-09-07,data: 2024-09-07,72,4,01 - Progetos\zData Analyst\Graficos\Gráfico de dispersão.md
 Gráfico de inclinaçao,2024-09-29 19:19:52,2024-09-29,data: 2024-09-29,17,1,01 - Progetos\zData Analyst\Graficos\Gráfico de inclinaçao.md
-Gráfico de inclinação,2024-12-31 01:28:25,2024-09-10,DataAnalyst,105,4,01 - Progetos\zData Analyst\Graficos\Gráfico de inclinação.md
-Gráfico de linhas,2024-12-31 01:28:29,2024-09-10,DataAnalyst,29,2,01 - Progetos\zData Analyst\Graficos\Gráfico de linhas.md
+Gráfico de inclinação,2024-09-12 00:16:12,2024-09-10,"""#DataAnalyst""",105,4,01 - Progetos\zData Analyst\Graficos\Gráfico de inclinação.md
+Gráfico de linhas,2024-09-12 00:16:06,2024-09-10,"""#DataAnalyst""",29,2,01 - Progetos\zData Analyst\Graficos\Gráfico de linhas.md
 Gráfico de Área,2024-09-11 18:18:18,2024-09-11,data: 2024-09-11,36,2,01 - Progetos\zData Analyst\Graficos\Gráfico de Área.md
 Gráficos de dispersão,2024-12-18 19:34:52,2024-12-18,Gráfico,112,4,01 - Progetos\zData Analyst\Graficos\Gráficos de dispersão.md
 Gráficos ruins,2024-12-17 21:00:36,2024-12-17,Gráfico,40,1,01 - Progetos\zData Analyst\Graficos\Gráficos ruins.md
@@ -227,12 +227,12 @@ Histograma,2024-12-20 19:28:58,2024-12-18,Gráfico,92,7,01 - Progetos\zData Anal
 Linhas,2024-09-12 00:16:03,2024-09-07,"""#DataAnalyst""",13,2,01 - Progetos\zData Analyst\Graficos\Linhas.md
 Mapa de calor,2024-09-07 17:42:25,2024-09-07,data: 2024-09-07,41,2,01 - Progetos\zData Analyst\Graficos\Mapa de calor.md
 Matrizes de dispersão,2024-12-18 23:37:14,2024-12-18,Conceito,151,3,01 - Progetos\zData Analyst\Graficos\Matrizes de dispersão.md
-Pontos,2024-12-31 01:29:40,2024-09-07,DataAnalyst,11,1,01 - Progetos\zData Analyst\Graficos\Pontos.md
+Pontos,2024-09-12 00:15:58,2024-09-07,"""#DataAnalyst""",11,1,01 - Progetos\zData Analyst\Graficos\Pontos.md
 Princípios da Gestalt,2024-09-12 17:53:47,2024-09-12,data: 2024-09-12,44,8,01 - Progetos\zData Analyst\Graficos\Princípios da Gestalt.md
 Proximidade,2024-09-12 16:06:07,2024-09-12,data: 2024-09-12,54,2,01 - Progetos\zData Analyst\Graficos\Proximidade.md
 Similaridade,2024-09-12 16:07:30,2024-09-12,data: 2024-09-12,36,2,01 - Progetos\zData Analyst\Graficos\Similaridade.md
 Sites,2024-09-30 15:31:31,2024-09-29,data: 2024-09-29,57,1,01 - Progetos\zData Analyst\Graficos\Sites.md
-Tabela,2024-12-31 01:30:20,2024-09-07,DataAnalyst,66,2,01 - Progetos\zData Analyst\Graficos\Tabela.md
+Tabela,2024-09-12 00:23:19,2024-09-07,"""#DataAnalyst""",66,2,01 - Progetos\zData Analyst\Graficos\Tabela.md
 Texto simples,2024-09-07 17:17:35,2024-09-07,data: 2024-09-07,61,3,01 - Progetos\zData Analyst\Graficos\Texto simples.md
 Uso de animação nos visuais apresentados,2024-09-26 16:29:10,2024-09-26,DataAnalyst,34,1,01 - Progetos\zData Analyst\Graficos\Uso de animação nos visuais apresentados.md
 Exemplo de postes,2024-12-06 20:46:00,2024-12-06,data: 2024-12-06,281,3,01 - Progetos\zData Analyst\Linkedln\Exemplo de postes.md
@@ -258,13 +258,13 @@ Problemas de Morfologia,2024-10-04 00:46:14,2024-10-04,DataAnalyst,1102,0,01 - P
 REsumo,2024-10-01 22:51:35,2024-10-01,DataAnalyst,383,2,01 - Progetos\zData Analyst\PLN\REsumo.md
 Abstração,2024-08-10 23:20:49,2024-08-10,Programação,74,3,01 - Progetos\zData Analyst\Programação\Abstração.md
 Atributos,2024-11-14 22:01:16,2024-08-10,Programação,58,8,01 - Progetos\zData Analyst\Programação\Atributos.md
-Classes,2024-12-31 01:31:24,2024-08-10,Programação,104,5,01 - Progetos\zData Analyst\Programação\Classes.md
+Classes,2024-08-10 22:25:59,2024-08-10,"""#Programação""",104,5,01 - Progetos\zData Analyst\Programação\Classes.md
 Construtor,2024-10-13 00:26:12,2024-08-12,Programação,129,8,01 - Progetos\zData Analyst\Programação\Construtor.md
-Instância,2024-12-31 01:31:42,2024-08-10,Programação,64,3,01 - Progetos\zData Analyst\Programação\Instância.md
+Instância,2024-08-10 21:17:09,2024-08-10,"""#Programação""",64,3,01 - Progetos\zData Analyst\Programação\Instância.md
 Métodos,2024-08-16 00:18:33,2024-08-15,Python,19,4,01 - Progetos\zData Analyst\Programação\Métodos.md
 Objetos,2024-08-10 21:19:04,2024-08-10,"""#Programação""",16,1,01 - Progetos\zData Analyst\Programação\Objetos.md
 Private,2024-08-13 23:40:57,2024-08-13,Programação,63,7,01 - Progetos\zData Analyst\Programação\Private.md
-Programação Orientada a Objetos (POO),2024-12-31 01:31:51,2024-08-10,Programação,308,17,01 - Progetos\zData Analyst\Programação\Programação Orientada a Objetos (POO).md
+Programação Orientada a Objetos (POO),2024-08-16 00:26:05,2024-08-10,"""#Programação""",308,17,01 - Progetos\zData Analyst\Programação\Programação Orientada a Objetos (POO).md
 Análise de E-commerce,2024-10-27 20:40:54,,,469,0,01 - Progetos\zData Analyst\projetos\Análise de E-commerce.md
 Atributo,2024-11-15 21:24:12,2024-11-14,Conceito,31,1,01 - Progetos\zData Analyst\Python\Atributo.md
 Composição p,2024-08-13 22:50:23,2024-08-13,POO,130,5,01 - Progetos\zData Analyst\Python\Composição p.md
@@ -298,7 +298,7 @@ Aula (26),2024-08-07 16:51:15,2024-08-06,data: 2024-08-06,195,0,01 - Progetos\zD
 Aula (27),2024-08-07 16:49:44,2024-08-06,data: 2024-08-06,192,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (27).md
 Aula (28),2024-08-06 16:35:42,2024-08-06,data: 2024-08-06,7,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (28).md
 Aula (29),2024-08-07 16:54:04,2024-08-06,data: 2024-08-06,203,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (29).md
-Aula (30),2024-12-31 01:31:19,2024-08-06,Programação,108,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (30).md
+Aula (30),2024-09-12 00:20:01,2024-08-06,"""#Programação""",108,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (30).md
 Aula (31),2024-08-07 16:56:47,2024-08-06,data: 2024-08-06,153,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (31).md
 Aula (32),2024-08-07 16:57:44,2024-08-06,data: 2024-08-06,176,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (32).md
 Aula (33),2024-08-07 16:58:59,2024-08-06,data: 2024-08-06,238,0,01 - Progetos\zData Analyst\Python\Aulas\Curso em video\Aula (33).md
@@ -415,7 +415,7 @@ Duplicatas,2024-11-24 16:38:21,2024-11-24,data: 2024-11-24,83,9,01 - Progetos\zD
 Filtragem condicional,2024-11-22 22:34:54,2024-11-22,data: 2024-11-22,61,1,01 - Progetos\zData Analyst\Python\Pandas\Filtragem condicional.md
 Indexação Booleana,2024-11-22 22:34:06,2024-11-18,Pandas,102,2,01 - Progetos\zData Analyst\Python\Pandas\Indexação Booleana.md
 Máscara booleana,2024-11-22 23:43:54,2024-11-22,Conceito,264,16,01 - Progetos\zData Analyst\Python\Pandas\Máscara booleana.md
-NaN nulo,2024-12-21 19:34:06,2024-12-21,data: 2024-12-21,19,0,01 - Progetos\zData Analyst\Python\Pandas\NaN nulo.md
+NaN,2024-12-21 19:34:06,2024-12-21,data: 2024-12-21,19,0,01 - Progetos\zData Analyst\Python\Pandas\NaN.md
 Ordenar,2024-11-24 19:39:43,2024-11-24,Conceito,48,1,01 - Progetos\zData Analyst\Python\Pandas\Ordenar.md
 Pré-processamento de dados,2024-11-24 16:34:46,2024-11-20,Conceito,76,3,01 - Progetos\zData Analyst\Python\Pandas\Pré-processamento de dados.md
 Split Apply Combine,2024-12-28 19:53:45,2024-12-28,Conceito,19,1,01 - Progetos\zData Analyst\Python\Pandas\Split Apply Combine.md
@@ -476,65 +476,65 @@ Normalizar nomes de colunas,2024-11-20 20:16:35,2024-11-20,Comando,35,1,01 - Pro
 Sem título,2024-12-27 21:10:33,,,0,0,01 - Progetos\zData Analyst\Python\Pandas\Comandos\Sem título.md
 subset=,2024-11-22 00:55:42,2024-11-22,data: 2024-11-22,87,4,01 - Progetos\zData Analyst\Python\Pandas\Comandos\subset=.md
 ~,2024-12-05 20:32:21,2024-12-05,data: 2024-12-05,24,0,01 - Progetos\zData Analyst\Python\Pandas\Comandos\~.md
-Análise de dados,2024-12-31 01:26:49,2024-09-04,DataAnalyst,93,7,01 - Progetos\zData Analyst\Roadmap\Análise de dados.md
-Análise descritiva ou exploratória,2024-12-31 01:26:53,2024-09-04,DataAnalyst,92,2,01 - Progetos\zData Analyst\Roadmap\Análise descritiva ou exploratória.md
-Análise diagnóstica,2024-12-31 01:27:00,2024-09-04,DataAnalyst,31,2,01 - Progetos\zData Analyst\Roadmap\Análise diagnóstica.md
+Análise de dados,2024-09-12 00:14:43,2024-09-04,"""#DataAnalyst""",93,7,01 - Progetos\zData Analyst\Roadmap\Análise de dados.md
+Análise descritiva ou exploratória,2024-09-12 00:15:37,2024-09-04,"""#DataAnalyst""",92,2,01 - Progetos\zData Analyst\Roadmap\Análise descritiva ou exploratória.md
+Análise diagnóstica,2024-09-12 00:15:48,2024-09-04,"""#DataAnalyst""",31,2,01 - Progetos\zData Analyst\Roadmap\Análise diagnóstica.md
 Análise Estatística,2024-09-04 21:48:45,2024-08-25,DataAnalyst,45,5,01 - Progetos\zData Analyst\Roadmap\Análise Estatística.md
-Análise Explanatória,2024-12-31 01:27:06,2024-09-05,DataAnalyst,55,5,01 - Progetos\zData Analyst\Roadmap\Análise Explanatória.md
-Análise preditiva,2024-12-31 01:27:09,2024-09-04,DataAnalyst,119,7,01 - Progetos\zData Analyst\Roadmap\Análise preditiva.md
-Análise prescritiva,2024-12-31 01:27:13,2024-09-04,DataAnalyst,28,2,01 - Progetos\zData Analyst\Roadmap\Análise prescritiva.md
+Análise Explanatória,2024-11-29 19:41:47,2024-09-05,"""#DataAnalyst""",55,5,01 - Progetos\zData Analyst\Roadmap\Análise Explanatória.md
+Análise preditiva,2024-10-28 23:50:41,2024-09-04,"""#DataAnalyst""",119,7,01 - Progetos\zData Analyst\Roadmap\Análise preditiva.md
+Análise prescritiva,2024-09-12 00:14:48,2024-09-04,"""#DataAnalyst""",28,2,01 - Progetos\zData Analyst\Roadmap\Análise prescritiva.md
 Aprendizado de máquina,2024-08-25 20:56:05,2024-08-25,DataAnalyst,35,1,01 - Progetos\zData Analyst\Roadmap\Aprendizado de máquina.md
 Coleta de dados,2024-08-25 19:37:40,2024-08-25,DataAnalyst,30,1,01 - Progetos\zData Analyst\Roadmap\Coleta de dados.md
 Conceitos-chave de dados,2024-10-28 23:50:41,2024-08-25,DataAnalyst,22,6,01 - Progetos\zData Analyst\Roadmap\Conceitos-chave de dados.md
 Estatística Descritiva,2024-09-03 23:31:31,2024-09-03,DataAnalyst,78,11,01 - Progetos\zData Analyst\Roadmap\Estatística Descritiva.md
 Excel,2024-09-05 21:21:51,2024-08-25,DataAnalyst,59,3,01 - Progetos\zData Analyst\Roadmap\Excel.md
 Exploração,2024-08-25 19:39:33,2024-08-25,data: 2024-08-25,40,5,01 - Progetos\zData Analyst\Roadmap\Exploração.md
-Indrodução,2024-12-31 01:28:35,2024-08-25,DataAnalyst,77,10,01 - Progetos\zData Analyst\Roadmap\Indrodução.md
-Insights,2024-12-31 01:28:40,2024-09-04,DataAnalyst,44,5,01 - Progetos\zData Analyst\Roadmap\Insights.md
+Indrodução,2024-09-12 00:24:02,2024-08-25,"""#DataAnalyst""",77,10,01 - Progetos\zData Analyst\Roadmap\Indrodução.md
+Insights,2024-09-12 00:14:45,2024-09-04,"""#DataAnalyst""",44,5,01 - Progetos\zData Analyst\Roadmap\Insights.md
 Limpeza de dados,2024-08-25 19:38:33,2024-08-25,DataAnalyst,33,1,01 - Progetos\zData Analyst\Roadmap\Limpeza de dados.md
-Mediana,2024-12-31 01:29:10,2024-09-03,DataAnalyst,11,2,01 - Progetos\zData Analyst\Roadmap\Mediana.md
-Medidas de Tendência Central,2024-12-31 01:29:18,2024-09-03,DataAnalyst,55,6,01 - Progetos\zData Analyst\Roadmap\Medidas de Tendência Central.md
-Medidas,2024-12-31 01:29:14,2024-09-03,DataAnalyst,17,3,01 - Progetos\zData Analyst\Roadmap\Medidas.md
-Moda,2024-12-31 01:29:23,2024-09-03,DataAnalyst,175,7,01 - Progetos\zData Analyst\Roadmap\Moda.md
-Média,2024-12-31 01:29:06,2024-09-03,DataAnalyst,34,10,01 - Progetos\zData Analyst\Roadmap\Média.md
-Padrões & Tendências & Relações,2024-12-31 01:29:35,2024-09-04,DataAnalyst,55,3,01 - Progetos\zData Analyst\Roadmap\Padrões & Tendências & Relações.md
+Mediana,2024-09-12 00:19:18,2024-09-03,"""#DataAnalyst""",11,2,01 - Progetos\zData Analyst\Roadmap\Mediana.md
+Medidas de Tendência Central,2024-09-12 00:17:26,2024-09-03,"""#DataAnalyst""",55,6,01 - Progetos\zData Analyst\Roadmap\Medidas de Tendência Central.md
+Medidas,2024-09-12 00:21:40,2024-09-03,"""#DataAnalyst""",17,3,01 - Progetos\zData Analyst\Roadmap\Medidas.md
+Moda,2024-09-12 00:16:32,2024-09-03,"""#DataAnalyst""",175,7,01 - Progetos\zData Analyst\Roadmap\Moda.md
+Média,2024-09-12 00:18:31,2024-09-03,"""#DataAnalyst""",34,10,01 - Progetos\zData Analyst\Roadmap\Média.md
+Padrões & Tendências & Relações,2024-09-12 00:21:55,2024-09-04,"""#DataAnalyst""",55,3,01 - Progetos\zData Analyst\Roadmap\Padrões & Tendências & Relações.md
 Sem título,2024-08-28 23:01:55,,,240,0,01 - Progetos\zData Analyst\Roadmap\Sem título.md
 Tipos de variáveis,2024-09-03 22:21:55,2024-09-03,DataAnalyst,38,2,01 - Progetos\zData Analyst\Roadmap\Tipos de variáveis.md
-Variáveis discretas,2024-12-31 01:30:41,2024-09-03,DataAnalyst,22,0,01 - Progetos\zData Analyst\Roadmap\Variáveis discretas.md
-Variáveis ​​Contínuas,2024-12-31 01:30:38,2024-09-03,DataAnalyst,19,0,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Contínuas.md
+Variáveis discretas,2024-09-12 00:19:40,2024-09-03,"""#DataAnalyst""",22,0,01 - Progetos\zData Analyst\Roadmap\Variáveis discretas.md
+Variáveis ​​Contínuas,2024-09-12 00:24:09,2024-09-03,"""#DataAnalyst""",19,0,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Contínuas.md
 Variáveis ​​Nominais,2024-09-03 22:23:21,2024-09-03,data: 2024-09-03,19,1,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Nominais.md
 Variáveis ​​Ordinais,2024-09-03 22:23:37,2024-09-03,data: 2024-09-03,24,1,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Ordinais.md
 Variáveis ​​Qualitativas (ou Categóricas),2024-09-03 22:21:47,2024-09-03,data: 2024-09-03,10,2,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Qualitativas (ou Categóricas).md
-Variáveis ​​Quantitativas,2024-12-31 01:30:52,2024-09-03,DataAnalyst,11,2,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Quantitativas.md
+Variáveis ​​Quantitativas,2024-09-12 00:19:34,2024-09-03,"""#DataAnalyst""",11,2,01 - Progetos\zData Analyst\Roadmap\Variáveis ​​Quantitativas.md
 Visualização de dados,2024-08-25 19:53:00,2024-08-25,DataAnalyst,42,6,01 - Progetos\zData Analyst\Roadmap\Visualização de dados.md
 Comandos,2024-08-22 20:29:47,2024-08-22,Programação,538,4,01 - Progetos\zData Analyst\Scikit-Learn\Comandos.md
 'backticks',2024-10-09 23:56:50,2024-10-09,DataAnalyst,56,0,01 - Progetos\zData Analyst\SQL\'backticks'.md
 Campos,2024-09-16 00:40:14,2024-09-16,DataAnalyst,25,1,01 - Progetos\zData Analyst\SQL\Campos.md
 Dados caracteres e strings,2024-09-13 20:35:08,2024-09-12,DataAnalyst,20,1,01 - Progetos\zData Analyst\SQL\Dados caracteres e strings.md
-Dados Diversos,2024-12-31 01:27:56,2024-09-11,DataAnalyst,46,7,01 - Progetos\zData Analyst\SQL\Dados Diversos.md
-Dados sequência de Unicode,2024-12-31 01:28:00,2024-09-11,DataAnalyst,71,10,01 - Progetos\zData Analyst\SQL\Dados sequência de Unicode.md
+Dados Diversos,2024-09-12 00:19:26,2024-09-11,"""#DataAnalyst""",46,7,01 - Progetos\zData Analyst\SQL\Dados Diversos.md
+Dados sequência de Unicode,2024-09-23 21:08:58,2024-09-11,"""#DataAnalyst""",71,10,01 - Progetos\zData Analyst\SQL\Dados sequência de Unicode.md
 "Diferenças DML,DDL e DCL",2024-09-12 17:56:04,2024-09-11,DataAnalyst,43,3,"01 - Progetos\zData Analyst\SQL\Diferenças DML,DDL e DCL.md"
 Different Types,2024-09-21 21:25:42,2024-09-21,DataAnalyst,25,0,01 - Progetos\zData Analyst\SQL\Different Types.md
 Erro code 1175,2024-09-16 14:26:31,2024-09-15,Erro,87,5,01 - Progetos\zData Analyst\SQL\Erro code 1175.md
-Geral,2024-12-31 01:28:16,2024-09-11,DataAnalyst,33,6,01 - Progetos\zData Analyst\SQL\Geral.md
-Linguagem de Controle de Dados (DCL),2024-12-31 01:28:51,2024-09-11,DataAnalyst,47,4,01 - Progetos\zData Analyst\SQL\Linguagem de Controle de Dados (DCL).md
-Linguagem de Definição de Dados (DDL),2024-12-31 01:28:56,2024-09-11,DataAnalyst,65,7,01 - Progetos\zData Analyst\SQL\Linguagem de Definição de Dados (DDL).md
-Linguagem de Manipulação de Dados (DML),2024-12-31 01:29:01,2024-09-11,DataAnalyst,72,8,01 - Progetos\zData Analyst\SQL\Linguagem de Manipulação de Dados (DML).md
+Geral,2024-09-12 00:22:02,2024-09-11,"""#DataAnalyst""",33,6,01 - Progetos\zData Analyst\SQL\Geral.md
+Linguagem de Controle de Dados (DCL),2024-09-12 00:23:42,2024-09-11,"""#DataAnalyst""",47,4,01 - Progetos\zData Analyst\SQL\Linguagem de Controle de Dados (DCL).md
+Linguagem de Definição de Dados (DDL),2024-09-12 00:16:24,2024-09-11,"""#DataAnalyst""",65,7,01 - Progetos\zData Analyst\SQL\Linguagem de Definição de Dados (DDL).md
+Linguagem de Manipulação de Dados (DML),2024-09-16 21:18:04,2024-09-11,"""#DataAnalyst""",72,8,01 - Progetos\zData Analyst\SQL\Linguagem de Manipulação de Dados (DML).md
 Otimizar as consultas SQL,2024-09-26 23:09:10,2024-09-26,DataAnalyst,517,11,01 - Progetos\zData Analyst\SQL\Otimizar as consultas SQL.md
 Projetos,2024-08-31 01:14:26,2024-08-19,Programação,474,1,01 - Progetos\zData Analyst\SQL\Projetos.md
 Qualificador de escopo,2024-10-10 00:04:13,2024-10-09,DataAnalyst,212,1,01 - Progetos\zData Analyst\SQL\Qualificador de escopo.md
-Queries,2024-12-31 01:29:46,2024-09-11,DataAnalyst,36,3,01 - Progetos\zData Analyst\SQL\Queries.md
-RDBMS,2024-12-31 01:29:51,2024-09-11,DataAnalyst,561,14,01 - Progetos\zData Analyst\SQL\RDBMS.md
+Queries,2024-09-12 00:21:47,2024-09-11,"""#DataAnalyst""",36,3,01 - Progetos\zData Analyst\SQL\Queries.md
+RDBMS,2024-09-12 00:14:09,2024-09-11,"""#DataAnalyst""",561,14,01 - Progetos\zData Analyst\SQL\RDBMS.md
 SCHEMA,2024-10-09 23:49:15,2024-10-09,DataAnalyst,319,4,01 - Progetos\zData Analyst\SQL\SCHEMA.md
-Sintaxe SQL,2024-12-31 01:30:02,2024-09-11,DataAnalyst,66,11,01 - Progetos\zData Analyst\SQL\Sintaxe SQL.md
-SQL vx NoSQL,2024-12-31 01:30:10,2024-09-11,DataAnalyst,295,10,01 - Progetos\zData Analyst\SQL\SQL vx NoSQL.md
-SQL,2024-12-31 01:30:06,2024-09-11,DataAnalyst,47,6,01 - Progetos\zData Analyst\SQL\SQL.md
+Sintaxe SQL,2024-09-16 21:07:39,2024-09-11,"""#DataAnalyst""",66,11,01 - Progetos\zData Analyst\SQL\Sintaxe SQL.md
+SQL vx NoSQL,2024-09-26 23:42:23,2024-09-11,"""#DataAnalyst""",295,10,01 - Progetos\zData Analyst\SQL\SQL vx NoSQL.md
+SQL,2024-09-12 00:14:15,2024-09-11,"""#DataAnalyst""",47,6,01 - Progetos\zData Analyst\SQL\SQL.md
 SSMS,2024-09-28 20:42:46,2024-09-28,DataAnalyst,70,2,01 - Progetos\zData Analyst\SQL\SSMS.md
 Subquereies Aninhadas,2024-09-21 21:26:08,2024-09-21,DataAnalyst,37,0,01 - Progetos\zData Analyst\SQL\Subquereies Aninhadas.md
 Subquereies Correlacionadas,2024-09-21 21:25:12,2024-09-21,DataAnalyst,39,0,01 - Progetos\zData Analyst\SQL\Subquereies Correlacionadas.md
 Subqueries,2024-09-21 21:25:51,2024-09-21,DataAnalyst,38,3,01 - Progetos\zData Analyst\SQL\Subqueries.md
-Tipos de dados SQL,2024-12-31 01:30:29,2024-09-11,DataAnalyst,48,8,01 - Progetos\zData Analyst\SQL\Tipos de dados SQL.md
-Unicode,2024-12-31 01:30:34,2024-09-11,DataAnalyst,42,1,01 - Progetos\zData Analyst\SQL\Unicode.md
+Tipos de dados SQL,2024-09-12 00:21:32,2024-09-11,"""#DataAnalyst""",48,8,01 - Progetos\zData Analyst\SQL\Tipos de dados SQL.md
+Unicode,2024-09-12 00:15:04,2024-09-11,"""#DataAnalyst""",42,1,01 - Progetos\zData Analyst\SQL\Unicode.md
 Árvore balanceada,2024-09-26 20:59:11,2024-09-26,DataAnalyst,96,1,01 - Progetos\zData Analyst\SQL\Árvore balanceada.md
 Coisas para juntar,2024-10-23 22:36:39,,,16,10,01 - Progetos\zData Analyst\SQL\00\Coisas para juntar.md
 ABS,2024-10-23 01:06:45,2024-09-23,Comando,61,1,01 - Progetos\zData Analyst\SQL\Comandos\ABS.md
@@ -625,7 +625,7 @@ WHERE,2024-09-16 21:02:53,2024-09-13,DataAnalyst,30,4,01 - Progetos\zData Analys
 ÍNDICES,2024-09-26 21:12:17,2024-09-26,data: 2024-09-26,46,5,01 - Progetos\zData Analyst\SQL\Comandos\ÍNDICES.md
 Planejamento,2024-10-02 23:58:42,2024-09-28,DataAnalyst,697,6,01 - Progetos\zData Analyst\SQL\PROJETO\Planejamento.md
 Career Content,2024-11-28 17:11:32,2024-11-24,data: 2024-11-24,91,0,01 - Progetos\zData Analyst\Tripleten\Career Content.md
-Perguntas,2024-12-31 00:48:45,,,512,2,01 - Progetos\zData Analyst\Tripleten\Perguntas.md
+Perguntas,2024-12-29 22:58:13,,,492,1,01 - Progetos\zData Analyst\Tripleten\Perguntas.md
 progeto 3,2024-12-15 16:29:00,,,4414,0,01 - Progetos\zData Analyst\Tripleten\progeto 3.md
 Sem título,2024-12-12 19:32:33,,,127,18,01 - Progetos\zData Analyst\Tripleten\Sem título.md
 Técnicas de estudo,2024-12-07 00:23:04,2024-12-03,data: 2024-12-03,895,14,01 - Progetos\zData Analyst\Tripleten\Técnicas de estudo.md
@@ -643,9 +643,9 @@ O mundo assombrado pelos demonio,2024-10-28 16:33:12,,,61,0,02 - Referencias\Esc
 O poder do hábito,2024-10-28 16:23:02,,,326,17,02 - Referencias\Escritos\Livros\O poder do hábito.md
 O teste da mãe,2024-12-10 01:26:33,,,381,10,02 - Referencias\Escritos\Livros\O teste da mãe.md
 Rapido e Devagar 2 formas de pensar,2024-01-27 11:30:00,,#Psicologia,421,5,02 - Referencias\Escritos\Livros\Rapido e Devagar 2 formas de pensar.md
-Storytelling com dados,2024-12-31 01:30:15,2024-09-04,DataAnalyst,1650,62,02 - Referencias\Escritos\Livros\Storytelling com dados.md
+Storytelling com dados,2024-09-30 15:31:36,2024-09-04,"""#DataAnalyst""",1650,62,02 - Referencias\Escritos\Livros\Storytelling com dados.md
 Voice in,2024-08-05 21:43:05,2024-04-28,data: 2024-04-28,30,0,02 - Referencias\Extenções\Voice in.md
-+Dinheiro,2024-12-31 01:32:09,2024-07-14,insite,34,0,02 - Referencias\Outros\+Dinheiro.md
++Dinheiro,2024-07-14 01:27:38,2024-07-14,"""#insite""",34,0,02 - Referencias\Outros\+Dinheiro.md
 efeito florida,2023-11-27 11:27:02,,#Psicologia,89,0,02 - Referencias\Outros\efeito florida.md
 efeito Lady Macbeth,2023-11-28 11:28:24,,#Psicologia,17,0,02 - Referencias\Outros\efeito Lady Macbeth.md
 Níveis,2024-05-20 00:59:39,,,39,0,02 - Referencias\Outros\Níveis.md
@@ -657,36 +657,36 @@ Ken,2024-09-19 01:14:01,2024-09-19,data: 2024-09-19,53,0,02 - Referencias\Pessoa
 TOP,2024-09-19 00:25:42,,,48,2,02 - Referencias\Pessoas\Pretendentes\TOP.md
 Chatpdf,2024-04-29 11:07:59,2024-04-28,Ferramentas,24,0,02 - Referencias\Site\Chatpdf.md
 Cor invertida,2024-04-29 00:42:10,2024-04-28,data: 2024-04-28,17,0,02 - Referencias\Site\Cor invertida.md
-Everycircuit,2024-12-31 01:32:45,2024-04-28,Eletrônica,30,2,02 - Referencias\Site\Everycircuit.md
+Everycircuit,2024-04-29 00:02:24,2024-04-28,"""#Eletrônica""",30,2,02 - Referencias\Site\Everycircuit.md
 Ferramentas para design de circuitos eletrônicos,2024-04-29 00:34:48,2024-04-28,Eletrônica,57,0,02 - Referencias\Site\Ferramentas para design de circuitos eletrônicos.md
-intervals.icu,2024-12-31 01:25:00,2024-04-28,Fitness,23,1,02 - Referencias\Site\intervals.icu.md
-Paperzonevn,2024-12-31 01:32:33,2024-04-28,Arte,18,0,02 - Referencias\Site\Paperzonevn.md
+intervals.icu,2024-04-29 00:21:33,2024-04-28,"""#Fitness""",23,1,02 - Referencias\Site\intervals.icu.md
+Paperzonevn,2024-04-29 00:57:07,2024-04-28,"""#Arte""",18,0,02 - Referencias\Site\Paperzonevn.md
 perplexity,2024-08-05 21:37:01,2024-04-28,data: 2024-04-28,15,0,02 - Referencias\Site\perplexity.md
 Playgraund,2024-08-05 02:04:11,2024-04-28,data: 2024-04-28,15,0,02 - Referencias\Site\Playgraund.md
 Scispace,2024-05-02 10:54:56,2024-04-28,Aprendizado,19,0,02 - Referencias\Site\Scispace.md
-Sites para pesquisar artigos,2024-12-31 01:32:49,2024-04-28,Utilidades,12,2,02 - Referencias\Site\Sites para pesquisar artigos.md
-Status invest,2024-12-31 01:33:01,2024-04-28,Economia,19,0,02 - Referencias\Site\Status invest.md
-Suno.io,2024-12-31 01:33:11,2024-04-28,Interesante,23,0,02 - Referencias\Site\Suno.io.md
+Sites para pesquisar artigos,2024-04-28 23:47:44,2024-04-28,"""#Utilidades""",12,2,02 - Referencias\Site\Sites para pesquisar artigos.md
+Status invest,2024-04-29 00:15:46,2024-04-28,"""#Economia""",19,0,02 - Referencias\Site\Status invest.md
+Suno.io,2024-04-29 00:03:56,2024-04-28,"""#Interesante""",23,0,02 - Referencias\Site\Suno.io.md
 tempo.com,2024-04-29 00:36:29,2024-04-28,data: 2024-04-28,54,2,02 - Referencias\Site\tempo.com.md
 Video highlight,2024-04-29 11:06:23,2024-04-28,Ferramentas,16,0,02 - Referencias\Site\Video highlight.md
 D Cientista de Dados financeiro,2024-09-29 00:01:27,2024-09-28,DataAnalyst,205,0,02 - Referencias\Site\linkedin\D Cientista de Dados financeiro.md
 87 DICAS OBSIDIAN Do Iniciante ao Avançado  Tutorial Obsidian,2024-12-30 20:52:46,2024-04-28,Aprendizado,976,0,02 - Referencias\Videos\87 DICAS OBSIDIAN Do Iniciante ao Avançado  Tutorial Obsidian.md
 A arte e a ciência de MEMORIZAR qualquer coisa,2024-08-17 19:27:21,2024-04-28,Aprendizado,46,2,02 - Referencias\Videos\A arte e a ciência de MEMORIZAR qualquer coisa.md
 A Física da Neurociências,2024-06-08 19:17:01,2024-04-28,Física,270,4,02 - Referencias\Videos\A Física da Neurociências.md
-A MELHOR FORMA DE CHEGAR EM QUEM VOCÊ TÁ A FIM Marcos Lacerda psicólogo,2024-12-31 01:33:24,2024-04-28,Psicologia,72,0,02 - Referencias\Videos\A MELHOR FORMA DE CHEGAR EM QUEM VOCÊ TÁ A FIM Marcos Lacerda psicólogo.md
+A MELHOR FORMA DE CHEGAR EM QUEM VOCÊ TÁ A FIM Marcos Lacerda psicólogo,2024-05-23 02:02:30,2024-04-28,"""#Psicologia""",72,0,02 - Referencias\Videos\A MELHOR FORMA DE CHEGAR EM QUEM VOCÊ TÁ A FIM Marcos Lacerda psicólogo.md
 Adeus verbo to be,2024-12-03 23:41:17,2024-04-28,Inglês,376,7,02 - Referencias\Videos\Adeus verbo to be.md
 Anotações escritas ou digitadas,2024-11-15 16:55:34,2024-04-28,Aprendizado,135,0,02 - Referencias\Videos\Anotações escritas ou digitadas.md
 APRENDA INGLÊS SOZINHO e de GRAcA,2024-11-15 17:03:33,2024-04-28,data: 2024-04-28,519,0,02 - Referencias\Videos\APRENDA INGLÊS SOZINHO e de GRAcA.md
 APRENDA INGLÊS SOZINHO e de GRAÇA,2024-08-21 00:24:53,2024-04-28,Aprendizado,367,0,02 - Referencias\Videos\APRENDA INGLÊS SOZINHO e de GRAÇA.md
 Como e quais componentes guardar de sucata,2024-05-05 00:33:05,2024-04-28,Eletrônica,64,10,02 - Referencias\Videos\Como e quais componentes guardar de sucata.md
 COMO ESTUDAR POR PDF USANDO INTELIGÊNCIA ARTIFICIAL - UPDF,2024-05-04 00:45:36,2024-04-26,Aprendizado,66,3,02 - Referencias\Videos\COMO ESTUDAR POR PDF USANDO INTELIGÊNCIA ARTIFICIAL - UPDF.md
-Como ganhar DINHEIRO ONLINE (fazendo freelance),2024-12-31 01:33:44,2024-04-28,Venda,356,0,02 - Referencias\Videos\Como ganhar DINHEIRO ONLINE (fazendo freelance).md
+Como ganhar DINHEIRO ONLINE (fazendo freelance),2024-07-26 12:18:23,2024-04-28,"""#Venda""",356,0,02 - Referencias\Videos\Como ganhar DINHEIRO ONLINE (fazendo freelance).md
 "Como Magnetizar e Desmagnetizar ferramentas de forma CORRETA, com um pequeno dispositivo!🧲",2024-04-27 00:26:51,2024-04-27,data: 2024-04-27,49,2,"02 - Referencias\Videos\Como Magnetizar e Desmagnetizar ferramentas de forma CORRETA, com um pequeno dispositivo!🧲.md"
 Curso de Mineração de Sentenças,2024-11-28 21:44:05,2024-04-28,data: 2024-04-28,61,2,02 - Referencias\Videos\Curso de Mineração de Sentenças.md
-Engenharia de prompt,2024-12-31 01:33:55,2024-05-07,IA,98,0,02 - Referencias\Videos\Engenharia de prompt.md
+Engenharia de prompt,2024-05-07 19:35:25,2024-05-07,"""#IA""",98,0,02 - Referencias\Videos\Engenharia de prompt.md
 Equipamentos & Ferramentas - Software para Controle de Componentes Eletrônicos “com algo a mais”,2024-05-05 23:57:52,2024-04-28,"""#Eletrônica""",63,1,02 - Referencias\Videos\Equipamentos & Ferramentas - Software para Controle de Componentes Eletrônicos “com algo a mais”.md
 Evidência suprimida (Cherry picking),2024-05-03 11:27:29,2024-04-28,data: 2024-04-28,39,0,02 - Referencias\Videos\Evidência suprimida (Cherry picking).md
-Fazemos algo surreal ao falar português!,2024-12-31 01:35:01,2024-04-28,Português,43,3,02 - Referencias\Videos\Fazemos algo surreal ao falar português!.md
+Fazemos algo surreal ao falar português!,2024-04-28 22:53:19,2024-04-28,"""#Português""",43,3,02 - Referencias\Videos\Fazemos algo surreal ao falar português!.md
 From Paper to Bionics Origami's Incredible Impact on Science  FD Engineering,2024-04-30 12:53:51,2024-04-28,data: 2024-04-28,1445,0,02 - Referencias\Videos\From Paper to Bionics Origami's Incredible Impact on Science  FD Engineering.md
 Github com Alexandre,2024-12-10 21:27:58,2024-04-28,Programação,35,0,02 - Referencias\Videos\Github com Alexandre.md
 Método SQ3R,2024-08-18 00:45:19,2024-04-28,data: 2024-04-28,132,0,02 - Referencias\Videos\Método SQ3R.md
@@ -699,13 +699,13 @@ Concertei extenção,2024-04-24 17:30:13,2024-04-24,Eletrônica,20,1,03 - Notas 
 Concertei minha lanterna,2024-04-24 18:52:52,2024-04-24,Eletrônica,26,3,03 - Notas pessoais\Coisa_que_fiz\Concertei minha lanterna.md
 Concertei teclado,2024-05-01 16:33:37,2024-05-01,Eletrônica,44,2,03 - Notas pessoais\Coisa_que_fiz\Concertei teclado.md
 Fiz fios jacarés,2024-04-24 19:00:35,2024-04-24,Eletrônica,21,2,03 - Notas pessoais\Coisa_que_fiz\Fiz fios jacarés.md
-Melhorei os estiletes.,2024-12-31 01:35:26,2024-04-24,Ferramentas,16,1,03 - Notas pessoais\Coisa_que_fiz\Melhorei os estiletes..md
+Melhorei os estiletes.,2024-04-24 17:31:08,2024-04-24,"""#Ferramentas""",16,1,03 - Notas pessoais\Coisa_que_fiz\Melhorei os estiletes..md
 Pasta para soldar,2024-04-24 17:30:56,2024-04-24,Eletrônica,14,2,03 - Notas pessoais\Coisa_que_fiz\Pasta para soldar.md
 Pegador de acerolas,2024-04-24 19:01:21,2024-04-24,data: 2024-04-24,10,1,03 - Notas pessoais\Coisa_que_fiz\Pegador de acerolas.md
 Planos para Luminária,2024-05-07 21:04:12,2024-05-04,Eletrônica,114,8,03 - Notas pessoais\Coisa_que_fiz\Planos para Luminária.md
 Avalia qual ou quais compreessões,2024-08-23 21:22:49,,,0,0,03 - Notas pessoais\Ideia\Avalia qual ou quais compreessões.md
 Avaliador de livros,2024-09-03 01:39:36,2024-08-29,data: 2024-08-29,167,1,03 - Notas pessoais\Ideia\Avaliador de livros.md
-Ações,2024-12-31 01:35:36,2024-07-17,Investimento,41,0,03 - Notas pessoais\Ideia\Ações.md
+Ações,2024-07-17 01:19:15,2024-07-17,"""#Investimento""",41,0,03 - Notas pessoais\Ideia\Ações.md
 Corretor de redações e plotador de erros,2024-11-10 17:38:02,2024-11-10,DataAnalyst,14,1,03 - Notas pessoais\Ideia\Corretor de redações e plotador de erros.md
 Criador de palavras que faltam,2024-08-29 17:47:21,2024-08-29,data: 2024-08-29,58,1,03 - Notas pessoais\Ideia\Criador de palavras que faltam.md
 Detector de circuitos,2024-05-30 00:56:59,2024-05-30,"""#Eletrônica""",49,0,03 - Notas pessoais\Ideia\Detector de circuitos.md
@@ -730,3 +730,4 @@ Pessoas,2023-09-27 21:19:11,,,48,0,99 - Recursos\Modelos\Pessoas.md
 pret,2024-09-19 00:29:40,,data: {{date}},30,0,99 - Recursos\Modelos\pret.md
 Sites,2024-04-28 23:20:18,2024-04-28,data: 2024-04-28,7,0,99 - Recursos\Modelos\Sites.md
 Vídeo,2024-04-28 23:19:33,2024-04-28,data: 2024-04-28,8,0,99 - Recursos\Modelos\Vídeo.md
+Drawing 2024-09-04 00.54.48.excalidraw,2024-09-04 20:58:49,,[excalidraw],1669,0,Excalidraw\Drawing 2024-09-04 00.54.48.excalidraw.md
