@@ -59,4 +59,5 @@ pasta_inicial = r"C:\Users\jonat\Dropbox\Obsidian\obsidian"
 # Arquivo onde todas as notas serão concatenadas
 arquivo_saida = "notas_organizadas.csv"
 
+
 process_markdown_files(pasta_inicial, arquivo_saida)
